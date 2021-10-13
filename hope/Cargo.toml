@@ -1,0 +1,15 @@
+[package]
+edition = "2018"
+name = "rhxd-hope"
+
+[dependencies]
+md-5 = "0.9.1"
+sha-1 = "0.9.8"
+haval = {
+	package = "haval"
+	path = "../haval"
+}
+rhxd-hotline = {
+	package = "rhxd-hotline"
+	path = "../hotline"
+}

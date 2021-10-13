@@ -1,0 +1,7 @@
+[workspace]
+members = [
+	"haval"
+	"rhxd-gloarb"
+	"rhxd-hope"
+	"rhxd-hotline"
+]

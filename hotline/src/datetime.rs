@@ -1,4 +1,9 @@
-use chrono::{Datelike,DateTime,Timelike,TimeZone};
+use chrono::{
+	Datelike,
+	DateTime,
+	Timelike,
+	TimeZone
+};
 
 const MONTH_SECS: [u32; 12] = [
 	0,

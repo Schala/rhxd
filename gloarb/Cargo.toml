@@ -1,9 +1,0 @@
-[package]
-edition = "2018"
-name = "rhxd-gloarb"
-
-[dependencies]
-rhxd-hotline = {
-	package = "rhxd-hotline"
-	path = "../hotline"
-}
